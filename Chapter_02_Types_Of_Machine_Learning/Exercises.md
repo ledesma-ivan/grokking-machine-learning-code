@@ -4,27 +4,27 @@ For each of the following scenarios, state if it is an example of **supervised**
 
 ## a. 
 A recommendation system on a social network that recommends potential friends to a user  
-**Type:**  
+**Type:** unsupervised 
 **Explanation:**  
 
 ## b. 
 A system in a news site that divides the news into topics  
-**Type:**  
+**Type:** supervised
 **Explanation:**  
 
 ## c. 
 The Google autocomplete feature for sentences  
-**Type:**  
+**Type:** supervised
 **Explanation:**  
 
 ## d. 
 A recommendation system on an online retailer that recommends to users what to buy based on their past purchasing history  
-**Type:**  
+**Type:** unsupervised
 **Explanation:**  
 
 ## e. 
 A system in a credit card company that captures fraudulent transactions  
-**Type:**  
+**Type:** supervised
 **Explanation:**  
 
 
