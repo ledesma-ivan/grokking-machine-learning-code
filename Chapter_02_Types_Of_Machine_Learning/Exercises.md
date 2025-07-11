@@ -35,22 +35,22 @@ For each of the following applications of machine learning, would you use **regr
 ## a. 
 An online store predicting how much money a user will spend on their site  
 **Type:** Regression   
-**Explanation:**  
+**Explanation:** In this case we are determining a finite number.
 
 ## b. 
 A voice assistant decoding voice and turning it into text  
 **Type:** Classification  
-**Explanation:**  
+**Explanation:** Because the system assigns audio segments to categories for conversion to text. 
 
 ## c. 
 Selling or buying stock from a particular company  
 **Type:** Regression  
-**Explanation:**  
+**Explanation:** Since we would use the variables in the dataset to predict the behavior of the stock and take an action to either sell or buy a stock.
 
 ## d. 
 YouTube recommending a video to a user  
 **Type:** Classification  
-**Explanation:**  
+**Explanation:** As it seeks to classify the individual with a group of people who have similar patterns
 
 
 # 📘 Exercise 2.3
