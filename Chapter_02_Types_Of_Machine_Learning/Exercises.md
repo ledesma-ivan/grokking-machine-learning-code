@@ -34,22 +34,22 @@ For each of the following applications of machine learning, would you use **regr
 
 ## a. 
 An online store predicting how much money a user will spend on their site  
-**Type: regression**   
+**Type:** Regression   
 **Explanation:**  
 
 ## b. 
 A voice assistant decoding voice and turning it into text  
-**Type:classification**  
+**Type:** Classification  
 **Explanation:**  
 
 ## c. 
 Selling or buying stock from a particular company  
-**Type:regression**  
+**Type:** Regression  
 **Explanation:**  
 
 ## d. 
 YouTube recommending a video to a user  
-**Type:classification**  
+**Type:** Classification  
 **Explanation:**  
 
 
