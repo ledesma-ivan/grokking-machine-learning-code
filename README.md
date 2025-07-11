@@ -8,7 +8,7 @@ Get it with a 40% discount code: **serranopc**
 ### Chapters:
 
 1. What is machine learning?
-2. Types of machine learning [(exercises)](https://github.com/ledesma-ivan/grokking-machine-learning-code/tree/master/Chapter_02_Types_Of_Machine_Learning)
+2. Types of machine learning [(exercises)](https://github.com/ledesma-ivan/grokking-machine-learning-code/blob/master/Chapter_02_Types_Of_Machine_Learning/Exercises.md)
 3. Drawing a line close to our points: **Linear regression** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_3_Linear_Regression)
 4. Optimizing the training process: **Underfitting**, **overfitting**, **testing**, and **regularization** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_4_Testing_Overfitting_Underfitting)
 5. Using lines to split our points: **The perceptron algorithm** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_5_Perceptron_Algorithm)
