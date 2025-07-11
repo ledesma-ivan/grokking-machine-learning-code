@@ -15,7 +15,7 @@ A system in a news site that divides the news into topics
 ## c. 
 The Google autocomplete feature for sentences  
 **Type:** supervised
-**Explanation:**  
+**Explanation:** Regression is used to predict the following letter
 
 ## d. 
 A recommendation system on an online retailer that recommends to users what to buy based on their past purchasing history  
