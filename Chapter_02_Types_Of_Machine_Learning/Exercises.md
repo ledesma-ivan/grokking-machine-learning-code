@@ -1,4 +1,4 @@
-# 📘 Exercise 2.1
+# Exercise 2.1
 
 For each of the following scenarios, state if it is an example of **supervised** or **unsupervised** learning. Explain your answers. In cases of ambiguity, pick one, and explain why you picked it.
 
@@ -28,7 +28,7 @@ A system in a credit card company that captures fraudulent transactions
 **Explanation:**  
 
 
-# 📘 Exercise 2.2
+# Exercise 2.2
 
 For each of the following applications of machine learning, would you use **regression** or **classification** to solve it? Explain your answers. In cases of ambiguity, pick one, and explain why you picked it.
 
