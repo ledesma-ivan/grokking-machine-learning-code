@@ -20,7 +20,7 @@ The Google autocomplete feature for sentences
 ## d. 
 A recommendation system on an online retailer that recommends to users what to buy based on their past purchasing history  
 **Type:** unsupervised
-**Explanation:**  
+**Explanation:** A model is created with training data and predefined tags. If it meets certain criteria, it is selected with the corresponding category.
 
 ## e. 
 A system in a credit card company that captures fraudulent transactions  
