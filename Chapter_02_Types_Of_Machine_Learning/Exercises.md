@@ -10,7 +10,7 @@ A recommendation system on a social network that recommends potential friends to
 ## b. 
 A system in a news site that divides the news into topics  
 **Type:** supervised
-**Explanation:**  
+**Explanation:**  A model is created with training data and predefined tags. If it meets certain criteria, it is selected with the corresponding category.
 
 ## c. 
 The Google autocomplete feature for sentences  
@@ -20,7 +20,7 @@ The Google autocomplete feature for sentences
 ## d. 
 A recommendation system on an online retailer that recommends to users what to buy based on their past purchasing history  
 **Type:** unsupervised
-**Explanation:** A model is created with training data and predefined tags. If it meets certain criteria, it is selected with the corresponding category.
+**Explanation:** 
 
 ## e. 
 A system in a credit card company that captures fraudulent transactions  
