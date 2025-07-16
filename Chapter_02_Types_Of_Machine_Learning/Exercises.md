@@ -19,13 +19,13 @@ The Google autocomplete feature for sentences
 
 ## d. 
 A recommendation system on an online retailer that recommends to users what to buy based on their past purchasing history  
-**Type:** unsupervised
-**Explanation:** 
+**Type:** Content-based filtering
+**Explanation:** It is neither category.
 
 ## e. 
 A system in a credit card company that captures fraudulent transactions  
 **Type:** supervised
-**Explanation:**  
+**Explanation:**  It is supervised because it is trained with data with predefined tags and usually with a tag that defines whether it is fraud or not.
 
 
 # Exercise 2.2
