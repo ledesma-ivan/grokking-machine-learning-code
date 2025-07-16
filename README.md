@@ -20,3 +20,22 @@ Get it with a 40% discount code: **serranopc**
 11. Finding boundaries with style: **Support vector machines** and the **kernel method** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_11_Support_Vector_Machines)
 12. Combining models to maximize results: **Ensemble learning** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_12_Ensemble_Methods)
 13. Putting it all in practice: A real life example of **data engineering** and **machine learning** [(code)](https://github.com/luisguiserrano/manning/tree/master/Chapter_13_End_to_end_example)
+
+
+### Creo entorno virtual
+
+```bash
+python3 -m venv venv
+```
+
+### Activo el entorno
+
+```bash
+source venv/bin/activate
+```
+
+### Instalo los requirimientos para este proyecto.
+
+```bash
+pip install -r requirements.txt
+```
