@@ -5,7 +5,7 @@ For each of the following scenarios, state if it is an example of **supervised**
 ## a. 
 A recommendation system on a social network that recommends potential friends to a user  
 **Type:** unsupervised 
-**Explanation:**  
+**Explanation:**  Because it analyzes for similar patterns and groups them and does not require predefined tags.
 
 ## b. 
 A system in a news site that divides the news into topics  
@@ -49,7 +49,7 @@ Selling or buying stock from a particular company
 
 ## d. 
 YouTube recommending a video to a user  
-**Type:** Classification  
+**Type:** Classification  7
 **Explanation:** As it seeks to classify the individual with a group of people who have similar patterns
 
 
