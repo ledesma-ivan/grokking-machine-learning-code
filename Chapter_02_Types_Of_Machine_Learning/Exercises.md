@@ -62,19 +62,19 @@ Your task is to build a self-driving car. Give at least **three examples** of ma
 - If you are using **other types** of machine learning, explain which ones and why.
 
 ## Example 1  
-**Problem:**  
-**Learning Type:**  
-**Regression/Classification/Other:**  
-**Explanation:**  
+**Problem:**  Classifying traffic light colors (red, yellow, green)
+**Learning Type:** Supervised
+**Regression/Classification/Other:**   Classification
+**Explanation:** The system learns from labeled images of traffic lights to predict which color is on at that moment and make a decision whether to move forward or not.
 
 ## Example 2  
-**Problem:**  
-**Learning Type:**  
-**Regression/Classification/Other:**  
-**Explanation:**  
+**Problem:** Predicting the speed of nearby vehicles
+**Learning Type:**  Unsupervised
+**Regression/Classification/Other:**  Regression
+**Explanation:** The goal is to predict a continuous value (the speed) based on sensor input (e.g., radar, camera). Since the output is a numeric value, it is a regression problem. 
 
 ## Example 3  
-**Problem:**  
-**Learning Type:**  
-**Regression/Classification/Other:**  
-**Explanation:**  
+**Problem:**  Detecting pedestrians or animals on the road
+**Learning Type:**  Supervised
+**Regression/Classification/Other:**  Classification
+**Explanation:**  The car uses images or video to determine whether an object is a pedestrian, animal, or something else. This is a classification problem because it assigns labels to detected objects, helping avoid collisions.
